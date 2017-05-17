@@ -1,7 +1,7 @@
 {
   "name": "cerebro-qrcode",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Cerebro plugin to create QR Code",
   "license": "MIT",
   "repository": "LaercioSantana/cerebro-qrcode",
   "author": {
@@ -21,7 +21,11 @@
   "keywords": [
     "cerebro",
     "cerebro-plugin",
-    "cerebro-qrcode"
+    "cerebro-qrcode",
+    "code",
+    "qrcode",
+    "convert",
+    "create"
   ],
   "devDependencies": {
     "babel-cli": "^6.18.0",
