@@ -1,6 +1,6 @@
 # cerebro-qrcode
 
-Cerbero plugin to create QR Codes
+Cerebro plugin to create QR Codes
 
 ![](cerebro-qrcode.gif)
 
